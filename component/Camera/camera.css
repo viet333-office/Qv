@@ -1,0 +1,65 @@
+.box{
+ background-color: aqua;
+}
+.body{
+  padding-bottom: 2%;
+}
+.body-box{
+  background: white;
+}
+.list_title{
+  color: black;
+}
+
+.custom-list {
+  display: flex;
+  justify-content: center;
+  padding: 3% 0;
+  background: linear-gradient(to right, #333333, #999999);
+}
+
+ul.custom-list li {
+  margin-right: 10%; 
+}
+
+ul.custom-list li:last-child {
+  margin-right: 0; 
+}
+
+.footer{
+  background-color: black
+}
+
+
+
+.card-body {
+  padding: 10px;
+  text-align: center;
+}
+
+.product-title {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.product-price {
+  font-size: 16px;
+  color: #ff0000;
+  margin-bottom: 5px;
+}
+
+.product-rating {
+  font-size: 12px;
+  color: #ffc107;
+}
+
+.product-actions {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.product-actions button {
+  width: 100%;
+  margin: 2px 0;
+}
