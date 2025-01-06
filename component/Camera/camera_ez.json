@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "title": "Camera Ezviz C2C",
+      "price": "439.000₫",
+      "rating": "★★★★☆",
+      "image": "https://cameraezviz.com.vn/wp-content/uploads/2021/09/camera-ezviz-c2c.jpg",
+      "alt": "Camera Ezviz C2C",
+      "description": "Camera Wifi trong nhà nhỏ gọn, dễ lắp đặt, hỗ trợ ghi hình 1080p và đàm thoại 2 chiều."
+    },
+    {
+      "id": 2,
+      "title": "Camera Wifi trong nhà thông minh EZVIZ C1C 1080P",
+      "price": "420.000₫",
+      "rating": "★★★★☆",
+      "image": "https://cameraezviz.com.vn/wp-content/uploads/2021/09/camera-c1c.jpg",
+      "alt": "Camera Ezviz C1C",
+      "description": "Camera Wifi trong nhà với cảm biến Full HD, hỗ trợ quan sát ban đêm rõ nét."
+    },
+    {
+      "id": 3,
+      "title": "Camera Wifi thông minh EZVIZ C6N 1080P",
+      "price": "380.000₫",
+      "rating": "★★★★☆",
+      "image": "data:image/jpeg;base64,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",
+      "alt": "Camera Ezviz C6N",
+      "description": "Camera quay quét thông minh, hỗ trợ phát hiện chuyển động và đàm thoại 2 chiều."
+    },
+    {
+      "id": 4,
+      "title": "Camera IP Wifi quay quét thông minh EZVIZ C6N 4MP",
+      "price": "635.000₫",
+      "rating": "★★★★★",
+      "image": "https://cameraezviz.com.vn/wp-content/uploads/2021/09/camera-c6n-4mp.jpg",
+      "alt": "Camera Ezviz C6N 4MP",
+      "description": "Camera thông minh, quay quét 360 độ, hỗ trợ ghi hình 4MP và cảnh báo chuyển động."
+    },
+    {
+      "id": 5,
+      "title": "Camera Ezviz C1T",
+      "price": "535.000₫",
+      "rating": "★★★★☆",
+      "image": "https://cameraezviz.com.vn/wp-content/uploads/2021/09/camera-c1t.jpg",
+      "alt": "Camera Ezviz C1T",
+      "description": "Camera nhỏ gọn, hỗ trợ kết nối Wifi nhanh chóng và ghi hình chất lượng cao."
+    }
+  ]
+  

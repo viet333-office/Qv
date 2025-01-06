@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "PC Gaming MSI Trident 3",
+        "price": "15.000.000₫",
+        "rating": "★★★★☆",
+        "image": "https://example.com/images/msi-trident-3.jpg",
+        "alt": "PC Gaming MSI Trident 3",
+        "description": "PC Gaming MSI Trident 3 với vi xử lý Intel Core i5, RAM 8GB, card đồ họa NVIDIA GTX 1660, ổ cứng SSD 512GB, thiết kế nhỏ gọn phù hợp cho các game thủ có không gian giới hạn."
+    },
+    {
+        "id": 2,
+        "title": "PC Gaming ASUS ROG Strix G15",
+        "price": "25.000.000₫",
+        "rating": "★★★★☆",
+        "image": "https://example.com/images/rog-strix-g15.jpg",
+        "alt": "PC Gaming ASUS ROG Strix G15",
+        "description": "PC Gaming ASUS ROG Strix G15 với bộ vi xử lý Intel Core i7, RAM 16GB, card đồ họa NVIDIA RTX 2060, ổ cứng SSD 1TB, thiết kế mạnh mẽ và hiệu suất cao cho game thủ chuyên nghiệp."
+    },
+    {
+        "id": 3,
+        "title": "PC Gaming Alienware Aurora R12",
+        "price": "40.000.000₫",
+        "rating": "★★★★★",
+        "image": "https://example.com/images/alienware-aurora-r12.jpg",
+        "alt": "PC Gaming Alienware Aurora R12",
+        "description": "PC Gaming Alienware Aurora R12 với vi xử lý Intel Core i9, RAM 32GB, card đồ họa NVIDIA RTX 3080, ổ cứng SSD 2TB, hiệu suất vượt trội, đáp ứng yêu cầu chơi game AAA và làm việc đồ họa nặng."
+    },
+    {
+        "id": 4,
+        "title": "PC Gaming Corsair Vengeance i7200",
+        "price": "50.000.000₫",
+        "rating": "★★★★★",
+        "image": "https://example.com/images/corsair-vengeance-i7200.jpg",
+        "alt": "PC Gaming Corsair Vengeance i7200",
+        "description": "PC Gaming Corsair Vengeance i7200 với bộ vi xử lý Intel Core i9-11900K, RAM 64GB, card đồ họa NVIDIA RTX 3090, ổ cứng SSD 2TB, hệ thống tản nhiệt liquid, mang lại hiệu suất tối ưu cho game thủ và các chuyên gia làm đồ họa."
+    },
+    {
+        "id": 5,
+        "title": "PC Gaming HP Omen 30L",
+        "price": "45.000.000₫",
+        "rating": "★★★★★",
+        "image": "https://example.com/images/hp-omen-30l.jpg",
+        "alt": "PC Gaming HP Omen 30L",
+        "description": "PC Gaming HP Omen 30L với vi xử lý Intel Core i9, RAM 32GB, card đồ họa NVIDIA RTX 3080, ổ cứng SSD 1TB, thiết kế đẹp mắt và hiệu suất cực kỳ mạnh mẽ cho mọi tựa game AAA."
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "title": "Máy tính cây HP ProDesk 400 G6",
+      "price": "8.500.000₫",
+      "rating": "★★★★☆",
+      "image": "https://example.com/images/hp-prodesk-400-g6.jpg",
+      "alt": "Máy tính cây HP ProDesk 400 G6",
+      "description": "Máy tính văn phòng HP với cấu hình Intel Core i5, RAM 8GB, ổ cứng SSD 256GB, phù hợp cho công việc văn phòng cơ bản."
+    },
+    {
+      "id": 2,
+      "title": "Máy tính cây Dell OptiPlex 7080",
+      "price": "12.000.000₫",
+      "rating": "★★★★★",
+      "image": "https://example.com/images/dell-optiplex-7080.jpg",
+      "alt": "Máy tính cây Dell OptiPlex 7080",
+      "description": "Máy tính văn phòng Dell với bộ vi xử lý Intel Core i7, RAM 16GB, ổ cứng SSD 512GB, phù hợp cho các công việc đa nhiệm và đồ họa nhẹ."
+    },
+    {
+      "id": 3,
+      "title": "Máy tính cây Lenovo ThinkCentre M720",
+      "price": "9.200.000₫",
+      "rating": "★★★★☆",
+      "image": "https://example.com/images/lenovo-thinkcentre-m720.jpg",
+      "alt": "Máy tính cây Lenovo ThinkCentre M720",
+      "description": "Máy tính văn phòng Lenovo với CPU Intel Core i5, RAM 8GB, ổ cứng SSD 256GB, thiết kế nhỏ gọn, tiết kiệm không gian."
+    },
+    {
+      "id": 4,
+      "title": "Máy tính cây Acer Veriton X",
+      "price": "7.500.000₫",
+      "rating": "★★★★☆",
+      "image": "https://example.com/images/acer-veriton-x.jpg",
+      "alt": "Máy tính cây Acer Veriton X",
+      "description": "Máy tính văn phòng Acer với bộ vi xử lý Intel Core i3, RAM 4GB, ổ cứng HDD 1TB, phù hợp cho các công việc văn phòng cơ bản."
+    },
+    {
+      "id": 5,
+      "title": "Máy tính cây Asus ExpertCenter D9",
+      "price": "11.000.000₫",
+      "rating": "★★★★★",
+      "image": "https://example.com/images/asus-expertcenter-d9.jpg",
+      "alt": "Máy tính cây Asus ExpertCenter D9",
+      "description": "Máy tính văn phòng Asus với Intel Core i7, RAM 16GB, ổ cứng SSD 512GB, thiết kế hiện đại, dành cho môi trường làm việc chuyên nghiệp."
+    }
+  ]
+  

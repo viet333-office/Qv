@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Laptop Dell Inspiron 15 3000",
+        "price": "7.500.000₫",
+        "rating": "★★★★☆",
+        "image": "https://example.com/images/dell-inspiron-15-3000.jpg",
+        "alt": "Laptop Dell Inspiron 15 3000",
+        "description": "Laptop Dell Inspiron 15 3000 với bộ vi xử lý Intel Core i3, RAM 4GB, ổ cứng HDD 1TB, phù hợp cho các công việc văn phòng cơ bản."
+    },
+    {
+        "id": 2,
+        "title": "Laptop Dell Vostro 15 5000",
+        "price": "9.000.000₫",
+        "rating": "★★★★☆",
+        "image": "https://example.com/images/dell-vostro-15-5000.jpg",
+        "alt": "Laptop Dell Vostro 15 5000",
+        "description": "Laptop Dell Vostro 15 5000 với bộ vi xử lý Intel Core i5, RAM 8GB, ổ cứng SSD 256GB, phù hợp cho công việc văn phòng và học tập."
+    },
+    {
+        "id": 3,
+        "title": "Laptop Dell Latitude 3510",
+        "price": "10.500.000₫",
+        "rating": "★★★★☆",
+        "image": "https://example.com/images/dell-latitude-3510.jpg",
+        "alt": "Laptop Dell Latitude 3510",
+        "description": "Laptop Dell Latitude 3510 với bộ vi xử lý Intel Core i5, RAM 8GB, ổ cứng SSD 512GB, màn hình FHD, thiết kế mỏng nhẹ, phục vụ cho công việc chuyên nghiệp."
+    },
+    {
+        "id": 4,
+        "title": "Laptop Dell XPS 13",
+        "price": "16.500.000₫",
+        "rating": "★★★★★",
+        "image": "https://example.com/images/dell-xps-13.jpg",
+        "alt": "Laptop Dell XPS 13",
+        "description": "Laptop Dell XPS 13 với bộ vi xử lý Intel Core i7, RAM 16GB, ổ cứng SSD 512GB, thiết kế sang trọng, màn hình 13.3 inch InfinityEdge, phù hợp cho công việc sáng tạo và giải trí."
+    },
+    {
+        "id": 5,
+        "title": "Laptop Dell Alienware m15",
+        "price": "30.000.000₫",
+        "rating": "★★★★★",
+        "image": "https://example.com/images/dell-alienware-m15.jpg",
+        "alt": "Laptop Dell Alienware m15",
+        "description": "Laptop Dell Alienware m15 với bộ vi xử lý Intel Core i7, RAM 16GB, ổ cứng SSD 1TB, card đồ họa NVIDIA GeForce RTX 2060, phù hợp cho game thủ và công việc đồ họa nặng."
+    }
+]

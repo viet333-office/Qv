@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "title": "Camera Hikvision DS-2CD1121-I",
+      "price": "1.150.000₫",
+      "rating": "★★★★☆",
+      "image": "https://example.com/images/hikvision-ds-2cd1121-i.jpg",
+      "alt": "Camera Hikvision DS-2CD1121-I",
+      "description": "Camera IP 2.0MP với ống kính cố định, hỗ trợ hồng ngoại lên đến 30m, phù hợp cho giám sát trong nhà và ngoài trời."
+    },
+    {
+      "id": 2,
+      "title": "Camera Hikvision DS-2CD2143G0-I",
+      "price": "1.290.000₫",
+      "rating": "★★★★★",
+      "image": "https://example.com/images/hikvision-ds-2cd2143g0-i.jpg",
+      "alt": "Camera Hikvision DS-2CD2143G0-I",
+      "description": "Camera IP 4.0MP với ống kính cố định, hỗ trợ hồng ngoại lên đến 30m, thiết kế bán cầu, phù hợp cho giám sát khu vực rộng."
+    },
+    {
+      "id": 3,
+      "title": "Camera Hikvision DS-2CE56D0T-IRP",
+      "price": "850.000₫",
+      "rating": "★★★★☆",
+      "image": "https://example.com/images/hikvision-ds-2ce56d0t-irp.jpg",
+      "alt": "Camera Hikvision DS-2CE56D0T-IRP",
+      "description": "Camera HDTVI 2.0MP với ống kính cố định, hỗ trợ hồng ngoại, phù hợp cho giám sát trong nhà và ngoài trời."
+    },
+    {
+      "id": 4,
+      "title": "Camera Hikvision DS-2DF8236IX-AEL",
+      "price": "15.000.000₫",
+      "rating": "★★★★★",
+      "image": "https://example.com/images/hikvision-ds-2df8236ix-ael.jpg",
+      "alt": "Camera Hikvision DS-2DF8236IX-AEL",
+      "description": "Camera PTZ 2.0MP với khả năng xoay 360 độ và zoom quang học 36x, hỗ trợ hồng ngoại lên đến 200m, phù hợp cho giám sát khu vực rộng lớn."
+    },
+    {
+      "id": 5,
+      "title": "Camera Hikvision DS-2CD2T23G0-I8",
+      "price": "3.500.000₫",
+      "rating": "★★★★☆",
+      "image": "https://example.com/images/hikvision-ds-2cd2t23g0-i8.jpg",
+      "alt": "Camera Hikvision DS-2CD2T23G0-I8",
+      "description": "Camera IP 2.0MP với công nghệ AcuSense, hỗ trợ hồng ngoại lên đến 80m, phù hợp cho giám sát khu vực rộng."
+    }
+  ]
+  
