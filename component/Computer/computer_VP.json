@@ -1,48 +1,182 @@
 [
-    {
+  {
       "id": 1,
-      "title": "Máy tính cây HP ProDesk 400 G6",
-      "price": "8.500.000₫",
-      "rating": "★★★★☆",
-      "image": "https://example.com/images/hp-prodesk-400-g6.jpg",
-      "alt": "Máy tính cây HP ProDesk 400 G6",
-      "description": "Máy tính văn phòng HP với cấu hình Intel Core i5, RAM 8GB, ổ cứng SSD 256GB, phù hợp cho công việc văn phòng cơ bản."
-    },
-    {
-      "id": 2,
-      "title": "Máy tính cây Dell OptiPlex 7080",
+      "title": "HP ProDesk 400 G7",
       "price": "12.000.000₫",
-      "rating": "★★★★★",
-      "image": "https://example.com/images/dell-optiplex-7080.jpg",
-      "alt": "Máy tính cây Dell OptiPlex 7080",
-      "description": "Máy tính văn phòng Dell với bộ vi xử lý Intel Core i7, RAM 16GB, ổ cứng SSD 512GB, phù hợp cho các công việc đa nhiệm và đồ họa nhẹ."
-    },
-    {
+      "rating": "★★★★☆",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.Rnv_bULlsgAF1Z0grshrRwHaFy&pid=Api",
+      "alt": "HP ProDesk 400 G7",
+      "description": "Bộ vi xử lý: Intel Core i5-10500, RAM: 8GB DDR4, Ổ cứng: SSD 256GB."
+  },
+  {
+      "id": 2,
+      "title": "Dell OptiPlex 3080",
+      "price": "13.500.000₫",
+      "rating": "★★★★☆",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.RFwHhQ9UxB2Xq60sPUuF3gHaHa&pid=Api",
+      "alt": "Dell OptiPlex 3080",
+      "description": "Bộ vi xử lý: Intel Core i5-10500, RAM: 8GB DDR4, Ổ cứng: SSD 256GB."
+  },
+  {
       "id": 3,
-      "title": "Máy tính cây Lenovo ThinkCentre M720",
-      "price": "9.200.000₫",
+      "title": "Lenovo ThinkCentre M720s",
+      "price": "12.500.000₫",
       "rating": "★★★★☆",
-      "image": "https://example.com/images/lenovo-thinkcentre-m720.jpg",
-      "alt": "Máy tính cây Lenovo ThinkCentre M720",
-      "description": "Máy tính văn phòng Lenovo với CPU Intel Core i5, RAM 8GB, ổ cứng SSD 256GB, thiết kế nhỏ gọn, tiết kiệm không gian."
-    },
-    {
+      "image": "https://tse1.mm.bing.net/th?id=OIP.88jn1ICTUgBs8yVdq6ZMlwHaHa&pid=Api",
+      "alt": "Lenovo ThinkCentre M720s",
+      "description": "Bộ vi xử lý: Intel Core i5-10500, RAM: 8GB DDR4, Ổ cứng: SSD 256GB."
+  },
+  {
       "id": 4,
-      "title": "Máy tính cây Acer Veriton X",
-      "price": "7.500.000₫",
-      "rating": "★★★★☆",
-      "image": "https://example.com/images/acer-veriton-x.jpg",
-      "alt": "Máy tính cây Acer Veriton X",
-      "description": "Máy tính văn phòng Acer với bộ vi xử lý Intel Core i3, RAM 4GB, ổ cứng HDD 1TB, phù hợp cho các công việc văn phòng cơ bản."
-    },
-    {
-      "id": 5,
-      "title": "Máy tính cây Asus ExpertCenter D9",
+      "title": "Acer Veriton X",
       "price": "11.000.000₫",
+      "rating": "★★★☆☆",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.N0xFOcnhNy5P0RKX1mCQ4gHaHa&pid=Api",
+      "alt": "Acer Veriton X",
+      "description": "Bộ vi xử lý: Intel Core i5-10500, RAM: 8GB DDR4, Ổ cứng: SSD 256GB."
+  },
+  {
+      "id": 5,
+      "title": "Asus ExpertCenter D500SA",
+      "price": "12.000.000₫",
+      "rating": "★★★★☆",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.ge36cGMAI6uqFsjT_cIfwAHaHa&pid=Api",
+      "alt": "Asus ExpertCenter D500SA",
+      "description": "Bộ vi xử lý: Intel Core i5-10500, RAM: 8GB DDR4, Ổ cứng: SSD 256GB."
+  },
+  {
+      "id": 6,
+      "title": "HP EliteDesk 800 G6",
+      "price": "20.000.000₫",
       "rating": "★★★★★",
-      "image": "https://example.com/images/asus-expertcenter-d9.jpg",
-      "alt": "Máy tính cây Asus ExpertCenter D9",
-      "description": "Máy tính văn phòng Asus với Intel Core i7, RAM 16GB, ổ cứng SSD 512GB, thiết kế hiện đại, dành cho môi trường làm việc chuyên nghiệp."
-    }
-  ]
-  
+      "image": "https://tse1.mm.bing.net/th?id=OIP.hWDC29ml-uN90AWtia2nfAHaHa&pid=Api",
+      "alt": "HP EliteDesk 800 G6",
+      "description": "Bộ vi xử lý: Intel Core i7-10700, RAM: 16GB DDR4, Ổ cứng: SSD 512GB."
+  },
+  {
+      "id": 7,
+      "title": "Dell OptiPlex 7080",
+      "price": "22.000.000₫",
+      "rating": "★★★★★",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.yfnJXeCq8hQudPBUeuETKgHaHa&pid=Api",
+      "alt": "Dell OptiPlex 7080",
+      "description": "Bộ vi xử lý: Intel Core i7-10700, RAM: 16GB DDR4, Ổ cứng: SSD 512GB."
+  },
+  {
+      "id": 8,
+      "title": "Lenovo ThinkCentre M920s",
+      "price": "21.000.000₫",
+      "rating": "★★★★★",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.2HjEwwt3zzQhYpgWpQDR_wHaHa&pid=Api",
+      "alt": "Lenovo ThinkCentre M920s",
+      "description": "Bộ vi xử lý: Intel Core i7-10700, RAM: 16GB DDR4, Ổ cứng: SSD 512GB."
+  },
+  {
+      "id": 9,
+      "title": "Acer Veriton X",
+      "price": "19.000.000₫",
+      "rating": "★★★★☆",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.N0xFOcnhNy5P0RKX1mCQ4gHaHa&pid=Api",
+      "alt": "Acer Veriton X",
+      "description": "Bộ vi xử lý: Intel Core i7-10700, RAM: 16GB DDR4, Ổ cứng: SSD 512GB."
+  },
+  {
+      "id": 10,
+      "title": "HP EliteDesk 800 G6",
+      "price": "15.000.000₫",
+      "rating": "★★★★☆",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.hWDC29ml-uN90AWtia2nfAHaHa&pid=Api",
+      "alt": "HP EliteDesk 800 G6",
+      "description": "Bộ vi xử lý: Intel Core i5-10500, RAM: 8GB DDR4, Ổ cứng: SSD 256GB."
+  },
+  {
+    "id": 11,
+    "title": "Dell OptiPlex 7080",
+    "price": "16.500.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.yfnJXeCq8hQudPBUeuETKgHaHa&pid=Api",
+    "alt": "Dell OptiPlex 7080",
+    "description": "Bộ vi xử lý: Intel Core i5-10500, RAM: 8GB DDR4, Ổ cứng: SSD 256GB."
+},
+{
+    "id": 12,
+    "title": "Lenovo ThinkCentre M920s",
+    "price": "15.500.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.2HjEwwt3zzQhYpgWpQDR_wHaHa&pid=Api",
+    "alt": "Lenovo ThinkCentre M920s",
+    "description": "Bộ vi xử lý: Intel Core i5-10500, RAM: 8GB DDR4, Ổ cứng: SSD 256GB."
+},
+{
+    "id": 13,
+    "title": "Acer Veriton X",
+    "price": "11.500.000₫",
+    "rating": "★★★☆☆",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.N0xFOcnhNy5P0RKX1mCQ4gHaHa&pid=Api",
+    "alt": "Acer Veriton X",
+    "description": "Bộ vi xử lý: Intel Core i5-10500, RAM: 8GB DDR4, Ổ cứng: SSD 256GB."
+},
+{
+    "id": 14,
+    "title": "Asus ExpertCenter D500SA",
+    "price": "12.500.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.ge36cGMAI6uqFsjT_cIfwAHaHa&pid=Api",
+    "alt": "Asus ExpertCenter D500SA",
+    "description": "Bộ vi xử lý: Intel Core i5-10500, RAM: 8GB DDR4, Ổ cứng: SSD 256GB."
+},
+{
+    "id": 15,
+    "title": "HP EliteDesk 800 G6",
+    "price": "18.000.000₫",
+    "rating": "★★★★★",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.hWDC29ml-uN90AWtia2nfAHaHa&pid=Api",
+    "alt": "HP EliteDesk 800 G6",
+    "description": "Bộ vi xử lý: Intel Core i7-10700, RAM: 16GB DDR4, Ổ cứng: SSD 512GB."
+},
+{
+    "id": 16,
+    "title": "Dell OptiPlex 7080",
+    "price": "20.500.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.yfnJXeCq8hQudPBUeuETKgHaHa&pid=Api",
+    "alt": "Dell OptiPlex 7080",
+    "description": "Bộ vi xử lý: Intel Core i7-10700, RAM: 16GB DDR4, Ổ cứng: SSD 512GB."
+},
+{
+    "id": 17,
+    "title": "Lenovo ThinkCentre M920s",
+    "price": "22.000.000₫",
+    "rating": "★★★★★",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.2HjEwwt3zzQhYpgWpQDR_wHaHa&pid=Api",
+    "alt": "Lenovo ThinkCentre M920s",
+    "description": "Bộ vi xử lý: Intel Core i7-10700, RAM: 16GB DDR4, Ổ cứng: SSD 512GB."
+},
+{
+    "id": 18,
+    "title": "Acer Veriton X",
+    "price": "14.000.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.N0xFOcnhNy5P0RKX1mCQ4gHaHa&pid=Api",
+    "alt": "Acer Veriton X",
+    "description": "Bộ vi xử lý: Intel Core i5-10500, RAM: 8GB DDR4, Ổ cứng: SSD 256GB."
+},
+{
+    "id": 19,
+    "title": "Asus ExpertCenter D500SA",
+    "price": "15.500.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.ge36cGMAI6uqFsjT_cIfwAHaHa&pid=Api",
+    "alt": "Asus ExpertCenter D500SA",
+    "description": "Bộ vi xử lý: Intel Core i5-10500, RAM: 8GB DDR4, Ổ cứng: SSD 256GB."
+},
+{
+    "id": 20,
+    "title": "HP EliteDesk 800 G6",
+    "price": "17.500.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.hWDC29ml-uN90AWtia2nfAHaHa&pid=Api",
+    "alt": "HP EliteDesk 800 G6",
+    "description": "Bộ vi xử lý: Intel Core i5-10500, RAM: 8GB DDR4, Ổ cứng: SSD 256GB."
+}
+]

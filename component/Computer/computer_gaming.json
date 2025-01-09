@@ -1,47 +1,93 @@
 [
     {
-        "id": 1,
-        "title": "PC Gaming MSI Trident 3",
-        "price": "15.000.000₫",
-        "rating": "★★★★☆",
-        "image": "https://example.com/images/msi-trident-3.jpg",
-        "alt": "PC Gaming MSI Trident 3",
-        "description": "PC Gaming MSI Trident 3 với vi xử lý Intel Core i5, RAM 8GB, card đồ họa NVIDIA GTX 1660, ổ cứng SSD 512GB, thiết kế nhỏ gọn phù hợp cho các game thủ có không gian giới hạn."
+      "id": 1,
+      "title": "PCAP Gaming CS2 Pro",
+      "price": "15.210.000₫",
+      "rating": "★★★★★",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.7MeFqhlqdn_TI6uUwuuLLAAAAA&pid=Api",
+      "alt": "PCAP Gaming CS2 Pro",
+      "description": "CPU: Intel Core i5-12400F (Up To 4.40GHz, 6 Nhân 12 Luồng, 18MB Cache), RAM: 16GB DDR4-3200 (Dual Channel), SSD: Kingston A400 480GB, VGA: Colorful GeForce RTX 3060 NB DUO 12GB, Tản nhiệt: ID-COOLING SE-214-XT RGB."
     },
     {
-        "id": 2,
-        "title": "PC Gaming ASUS ROG Strix G15",
-        "price": "25.000.000₫",
-        "rating": "★★★★☆",
-        "image": "https://example.com/images/rog-strix-g15.jpg",
-        "alt": "PC Gaming ASUS ROG Strix G15",
-        "description": "PC Gaming ASUS ROG Strix G15 với bộ vi xử lý Intel Core i7, RAM 16GB, card đồ họa NVIDIA RTX 2060, ổ cứng SSD 1TB, thiết kế mạnh mẽ và hiệu suất cao cho game thủ chuyên nghiệp."
+      "id": 2,
+      "title": "PCAP Gaming WuKong V2",
+      "price": "15.210.000₫",
+      "rating": "★★★★★",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.gagJgu42FQCoR8Z7817upQAAAA&pid=Api",
+      "alt": "PCAP Gaming WuKong V2",
+      "description": "CPU: Intel Core i5-12400F (Up To 4.40GHz, 6 Nhân 12 Luồng, 18MB Cache), RAM: 16GB DDR4-3200 (Dual Channel), SSD: WD Green SN350 500GB NVMe, VGA: ASUS Dual GeForce RTX 3060 V2 12GB GDDR6, Tản nhiệt: JONSBO CR-1000 EVO BLACK (ARGB)."
     },
     {
-        "id": 3,
-        "title": "PC Gaming Alienware Aurora R12",
-        "price": "40.000.000₫",
-        "rating": "★★★★★",
-        "image": "https://example.com/images/alienware-aurora-r12.jpg",
-        "alt": "PC Gaming Alienware Aurora R12",
-        "description": "PC Gaming Alienware Aurora R12 với vi xử lý Intel Core i9, RAM 32GB, card đồ họa NVIDIA RTX 3080, ổ cứng SSD 2TB, hiệu suất vượt trội, đáp ứng yêu cầu chơi game AAA và làm việc đồ họa nặng."
+      "id": 3,
+      "title": "PC Gaming GMN-BP-5201",
+      "price": "11.740.000₫",
+      "rating": "★★★★☆",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.CJlB-4eW6cHUPSCGFwV-ngHaHa&pid=Api",
+      "alt": "PC Gaming GMN-BP-5201",
+      "description": "CPU: Intel Core i5-12400F, RAM: 16GB, VGA: RTX 3050."
     },
     {
-        "id": 4,
-        "title": "PC Gaming Corsair Vengeance i7200",
-        "price": "50.000.000₫",
-        "rating": "★★★★★",
-        "image": "https://example.com/images/corsair-vengeance-i7200.jpg",
-        "alt": "PC Gaming Corsair Vengeance i7200",
-        "description": "PC Gaming Corsair Vengeance i7200 với bộ vi xử lý Intel Core i9-11900K, RAM 64GB, card đồ họa NVIDIA RTX 3090, ổ cứng SSD 2TB, hệ thống tản nhiệt liquid, mang lại hiệu suất tối ưu cho game thủ và các chuyên gia làm đồ họa."
+      "id": 4,
+      "title": "PC Gaming GMN-BP-5202",
+      "price": "14.520.000₫",
+      "rating": "★★★★☆",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.M8gHIFVjoLJ_9Et4ftEoWQHaHa&pid=Api",
+      "alt": "PC Gaming GMN-BP-5202",
+      "description": "CPU: Intel Core i5-12400F, RAM: 16GB, VGA: RTX 3060."
     },
     {
-        "id": 5,
-        "title": "PC Gaming HP Omen 30L",
-        "price": "45.000.000₫",
-        "rating": "★★★★★",
-        "image": "https://example.com/images/hp-omen-30l.jpg",
-        "alt": "PC Gaming HP Omen 30L",
-        "description": "PC Gaming HP Omen 30L với vi xử lý Intel Core i9, RAM 32GB, card đồ họa NVIDIA RTX 3080, ổ cứng SSD 1TB, thiết kế đẹp mắt và hiệu suất cực kỳ mạnh mẽ cho mọi tựa game AAA."
+      "id": 5,
+      "title": "PC Gaming GMN-BP-5203",
+      "price": "15.210.000₫",
+      "rating": "★★★★☆",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.n9YWwa4kUsKg4snVaDLy7wHaHa&pid=Api",
+      "alt": "PC Gaming GMN-BP-5203",
+      "description": "CPU: Intel Core i5-12400F, RAM: 16GB, VGA: RTX 4060."
+    },
+    {
+      "id": 6,
+      "title": "PC Gaming GMN-BP-5204",
+      "price": "19.210.000₫",
+      "rating": "★★★★★",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.1wOLFVlgHzhwhLmm1An9-wHaHa&pid=Api",
+      "alt": "PC Gaming GMN-BP-5204",
+      "description": "CPU: Intel Core i5-12400F, RAM: 16GB, VGA: RTX 4060 Ti 16GB."
+    },
+    {
+      "id": 7,
+      "title": "PC Gaming GMN-BP-5301",
+      "price": "16.420.000₫",
+      "rating": "★★★★☆",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.F7l0GrqwKY1wrLd8he0AKQHaHa&pid=Api",
+      "alt": "PC Gaming GMN-BP-5301",
+      "description": "CPU: Intel Core i5-13400F, RAM: 16GB, VGA: RTX 3060."
+    },
+    {
+      "id": 8,
+      "title": "PC Gaming GMN-BP-5302",
+      "price": "17.110.000₫",
+      "rating": "★★★★★",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.qWZbzg8JX6806kfvMVtsawHaHa&pid=Api",
+      "alt": "PC Gaming GMN-BP-5302",
+      "description": "CPU: Intel Core i5-13400F, RAM: 16GB, VGA: RTX 4060."
+    },
+    {
+      "id": 9,
+      "title": "PC Gaming GMN-BP-5303",
+      "price": "21.110.000₫",
+      "rating": "★★★★★",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.82qam8pohlTaNxuR4zLTMgHaHa&pid=Api",
+      "alt": "PC Gaming GMN-BP-5303",
+      "description": "CPU: Intel Core i5-13400F, RAM: 16GB, VGA: RTX 4060 Ti."
+    },
+    {
+      "id": 10,
+      "title": "PC Gaming GMN-BP-5304",
+      "price": "22.280.000₫",
+      "rating": "★★★★★",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.vyQW_R23rZglbKIR8URSdgHaHa&pid=Api",
+      "alt": "PC Gaming GMN-BP-5304",
+      "description": "CPU: Intel Core i5-13600K, RAM: 16GB, VGA: RTX 3060."
     }
-]
+  ]
+  

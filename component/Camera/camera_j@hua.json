@@ -1,93 +1,146 @@
 [
-    {
-      "id": 1,
-      "title": "Camera Dahua IPC-HFW1431S",
-      "price": "850.000₫",
-      "rating": "★★★★☆",
-      "image": "https://example.com/images/dahua-ipc-hfw1431s.jpg",
-      "alt": "Camera Dahua IPC-HFW1431S",
-      "description": "Camera IP 4.0MP ngoài trời với khả năng chống nước và bụi, hỗ trợ hồng ngoại lên đến 30m, lý tưởng cho giám sát ngoài trời."
-    },
-    {
-      "id": 2,
-      "title": "Camera Dahua IPC-HFW2831T-ZS",
-      "price": "1.900.000₫",
-      "rating": "★★★★★",
-      "image": "https://example.com/images/dahua-ipc-hfw2831t-zs.jpg",
-      "alt": "Camera Dahua IPC-HFW2831T-ZS",
-      "description": "Camera IP 8.0MP với ống kính motorized, zoom quang học 2.7-13.5mm, hồng ngoại lên đến 50m, phù hợp cho giám sát khu vực rộng lớn."
-    },
-    {
-      "id": 3,
-      "title": "Camera Dahua PTZ SD59430U-HNI",
-      "price": "15.000.000₫",
-      "rating": "★★★★★",
-      "image": "https://example.com/images/dahua-ptz-sd59430u-hni.jpg",
-      "alt": "Camera Dahua PTZ SD59430U-HNI",
-      "description": "Camera PTZ 4MP với zoom quang học 30x, quay quét 360 độ, hỗ trợ hồng ngoại và giám sát cảnh báo động, phù hợp cho giám sát tầm xa."
-    },
-    {
-      "id": 4,
-      "title": "Camera Dahua N42B4A",
-      "price": "2.100.000₫",
-      "rating": "★★★★☆",
-      "image": "https://example.com/images/dahua-n42b4a.jpg",
-      "alt": "Camera Dahua N42B4A",
-      "description": "Camera Dome 4.0MP với ống kính cố định, thiết kế kín nước IP67, lý tưởng cho môi trường ngoài trời."
-    },
-    {
-      "id": 5,
-      "title": "Camera Dahua DH-IPC-HFW5231E-Z5",
-      "price": "3.500.000₫",
-      "rating": "★★★★☆",
-      "image": "https://example.com/images/dahua-dh-ipc-hfw5231e-z5.jpg",
-      "alt": "Camera Dahua DH-IPC-HFW5231E-Z5",
-      "description": "Camera IP 5.0MP với zoom quang học 5x, hỗ trợ hồng ngoại đến 80m, phù hợp cho giám sát ngoài trời và trong nhà."
-    },
-    {
-        "id": 1,
-        "title": "Camera Dahua IPC-HFW1431S",
-        "price": "850.000₫",
-        "rating": "★★★★☆",
-        "image": "https://example.com/images/dahua-ipc-hfw1431s.jpg",
-        "alt": "Camera Dahua IPC-HFW1431S",
-        "description": "Camera IP 4.0MP ngoài trời với khả năng chống nước và bụi, hỗ trợ hồng ngoại lên đến 30m, lý tưởng cho giám sát ngoài trời."
-      },
-      {
-        "id": 2,
-        "title": "Camera Dahua IPC-HFW2831T-ZS",
-        "price": "1.900.000₫",
-        "rating": "★★★★★",
-        "image": "https://example.com/images/dahua-ipc-hfw2831t-zs.jpg",
-        "alt": "Camera Dahua IPC-HFW2831T-ZS",
-        "description": "Camera IP 8.0MP với ống kính motorized, zoom quang học 2.7-13.5mm, hồng ngoại lên đến 50m, phù hợp cho giám sát khu vực rộng lớn."
-      },
-      {
-        "id": 3,
-        "title": "Camera Dahua PTZ SD59430U-HNI",
-        "price": "15.000.000₫",
-        "rating": "★★★★★",
-        "image": "https://example.com/images/dahua-ptz-sd59430u-hni.jpg",
-        "alt": "Camera Dahua PTZ SD59430U-HNI",
-        "description": "Camera PTZ 4MP với zoom quang học 30x, quay quét 360 độ, hỗ trợ hồng ngoại và giám sát cảnh báo động, phù hợp cho giám sát tầm xa."
-      },
-      {
-        "id": 4,
-        "title": "Camera Dahua N42B4A",
-        "price": "2.100.000₫",
-        "rating": "★★★★☆",
-        "image": "https://example.com/images/dahua-n42b4a.jpg",
-        "alt": "Camera Dahua N42B4A",
-        "description": "Camera Dome 4.0MP với ống kính cố định, thiết kế kín nước IP67, lý tưởng cho môi trường ngoài trời."
-      },
-      {
-        "id": 5,
-        "title": "Camera Dahua DH-IPC-HFW5231E-Z5",
-        "price": "3.500.000₫",
-        "rating": "★★★★☆",
-        "image": "https://example.com/images/dahua-dh-ipc-hfw5231e-z5.jpg",
-        "alt": "Camera Dahua DH-IPC-HFW5231E-Z5",
-        "description": "Camera IP 5.0MP với zoom quang học 5x, hỗ trợ hồng ngoại đến 80m, phù hợp cho giám sát ngoài trời và trong nhà."
-      }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Camera Dahua DH-IPC-HFW1230SP",
+    "price": "1.500.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.k96PHltd4wzcNhikw_F5eAHaHa&pid=Api",
+    "alt": "Camera Dahua DH-IPC-HFW1230SP",
+    "description": "Camera IP 2MP, hồng ngoại 30m, chuẩn IP67, phù hợp lắp đặt ngoài trời."
+  },
+  {
+    "id": 2,
+    "title": "Camera Dahua DH-IPC-HDW1230SP",
+    "price": "1.450.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.k96PHltd4wzcNhikw_F5eAHaHa&pid=Api",
+    "alt": "Camera Dahua DH-IPC-HDW1230SP",
+    "description": "Camera IP Dome 2MP, hồng ngoại 30m, chuẩn IP67, phù hợp lắp đặt trong nhà và ngoài trời."
+  },
+  {
+    "id": 3,
+    "title": "Camera Dahua DH-HAC-HFW1200TP-A",
+    "price": "1.200.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.lkAnQ379o90PThsN0TAuGgHaHa&pid=Api",
+    "alt": "Camera Dahua DH-HAC-HFW1200TP-A",
+    "description": "Camera HDCVI 2MP, hồng ngoại 80m, tích hợp mic, phù hợp lắp đặt ngoài trời."
+  },
+  {
+    "id": 4,
+    "title": "Camera Dahua DH-HAC-HDW1200EMP-A",
+    "price": "1.250.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.ukYJUmpYczCyynM9A4b-0wHaHa&pid=Api",
+    "alt": "Camera Dahua DH-HAC-HDW1200EMP-A",
+    "description": "Camera HDCVI Dome 2MP, hồng ngoại 50m, tích hợp mic, phù hợp lắp đặt trong nhà."
+  },
+  {
+    "id": 5,
+    "title": "Camera Dahua DH-IPC-HFW2431SP-S-S2",
+    "price": "2.800.000₫",
+    "rating": "★★★★★",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.Ri9ZDAkidLYz6Suqp3k5NgHaHa&pid=Api",
+    "alt": "Camera Dahua DH-IPC-HFW2431SP-S-S2",
+    "description": "Camera IP 4MP, hồng ngoại 60m, chuẩn IP67, phù hợp lắp đặt ngoài trời."
+  },
+  {
+    "id": 6,
+    "title": "Camera Dahua DH-IPC-HDW2431TP-AS-S2",
+    "price": "2.750.000₫",
+    "rating": "★★★★★",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.L3rky1IDEqKWGa7LsL3UbAHaHa&pid=Api",
+    "alt": "Camera Dahua DH-IPC-HDW2431TP-AS-S2",
+    "description": "Camera IP Dome 4MP, hồng ngoại 30m, tích hợp mic, chuẩn IP67, phù hợp lắp đặt trong nhà và ngoài trời."
+  },
+  {
+    "id": 7,
+    "title": "Camera Dahua DH-SD22204T-GN",
+    "price": "5.500.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.R9b43FlX_xB03f39u8ybvwHaGQ&pid=Api",
+    "alt": "Camera Dahua DH-SD22204T-GN",
+    "description": "Camera IP PTZ 2MP, zoom quang 4x, hồng ngoại 30m, phù hợp lắp đặt trong nhà."
+  },
+  {
+    "id": 8,
+    "title": "Camera Dahua DH-IPC-HFW4431EP-S",
+    "price": "3.200.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.7gKpe5m3ILsKyyUAv82g1wHaHa&pid=Api",
+    "alt": "Camera Dahua DH-IPC-HFW4431EP-S",
+    "description": "Camera IP 4MP, hồng ngoại 80m, chuẩn IP67, phù hợp lắp đặt ngoài trời."
+  },
+  {
+    "id": 9,
+    "title": "Camera Dahua DH-IPC-HDW4431EMP-ASE",
+    "price": "3.150.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.5H2XjBREGVV6MzGsLhkYYgHaHa&pid=Api",
+    "alt": "Camera Dahua DH-IPC-HDW4431EMP-ASE",
+    "description": "Camera IP Dome 4MP, hồng ngoại 50m, tích hợp mic, chuẩn IP67, phù hợp lắp đặt trong nhà và ngoài trời."
+  },
+  {
+    "id": 10,
+    "title": "Camera Dahua DH-IPC-HFW5631EP-ZE",
+    "price": "4.500.000₫",
+    "rating": "★★★★★",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.uB0ArXA2lkbZ05M3WR47pAAAAA&pid=Api",
+    "alt": "Camera Dahua DH-IPC-HFW5631EP-ZE",
+    "description": "Camera IP 6MP, ống kính varifocal, hồng ngoại 50m, chuẩn IP67, phù hợp lắp đặt ngoài trời."
+  },
+  {
+    "id": 11,
+    "title": "Camera Dahua DH-IPC-HDW5631R-ZE",
+    "price": "4.450.000₫",
+    "rating": "★★★★★",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.--GSeUU0wgckFamAa7sgUQAAAA&pid=Api",
+    "alt": "Camera Dahua DH-IPC-HDW5631R-ZE",
+    "description": "Camera IP Dome 6MP, ống kính varifocal, hồng ngoại 50m, chuẩn IP67, phù hợp lắp đặt trong nhà và ngoài trời."
+  },
+  {
+    "id": 12,
+    "title": "Camera Dahua DH-SD6AL230F-HNI",
+    "price": "12.000.000₫",
+    "rating": "★★★★★",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.5Mv0juM8qLjE-SFyP_aTqQHaHa&pid=Api",
+    "alt": "Camera Dahua DH-SD6AL230F-HNI",
+    "description": "Camera IP PTZ 2MP, zoom quang 30x, hồng ngoại 200m, phù hợp lắp đặt ngoài trời."
+  },
+  {
+    "id": 13,
+    "title": "Camera Dahua DH-IPC-HFW2231TP-AS-S2",
+    "price": "2.200.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.MUgASPaC3kSVnehHqLcBPAHaHa&pid=Api",
+    "alt": "Camera Dahua DH-IPC-HFW2231TP-AS-S2",
+    "description": "Camera IP 2MP, hồng ngoại 80m, tích hợp mic, chuẩn IP67, phù hợp lắp đặt ngoài trời."
+  },
+  {
+    "id": 14,
+    "title": "Camera Dahua DH-IPC-HDW2231TP-AS-S2",
+    "price": "2.150.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.l0QmIZ92dNm3-vzrPR_QfAHaHa&pid=Api",
+    "alt": "Camera Dahua DH-IPC-HDW2231TP-AS-S2",
+    "description": "Camera IP Dome 2MP, hồng ngoại 30m, tích hợp mic, chuẩn IP67, phù hợp lắp đặt trong nhà và ngoài trời."
+  },
+  {
+    "id": 15,
+    "title": "Camera Dahua DH-HAC-HFW1500TP",
+    "price": "1.600.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.mv4Ao2nx6G2QBPZMle2MlAHaHa&pid=Api",
+    "alt": "Camera Dahua DH-HAC-HFW1500TP",
+    "description": "Camera HDCVI 5MP, hồng ngoại 80m, phù hợp lắp đặt ngoài trời."
+  },
+  {
+    "id": 16,
+    "title": "Camera Dahua DH-HAC-HDW1500TLP-A",
+    "price": "1.650.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.8l8AqBvPd_w5gvHbt9v6ZgHaHr&pid=Api",
+    "alt": "Camera Dahua DH-HAC-HDW1500TLP-A",
+    "description": "Camera HDCVI Dome 5MP, hồng ngoại 60m, tích hợp mic, phù hợp lắp đặt trong nhà và ngoài trời."
+  }
+]

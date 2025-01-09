@@ -1,48 +1,137 @@
 [
-    {
-      "id": 1,
-      "title": "Camera Hikvision DS-2CD1121-I",
-      "price": "1.150.000₫",
-      "rating": "★★★★☆",
-      "image": "https://example.com/images/hikvision-ds-2cd1121-i.jpg",
-      "alt": "Camera Hikvision DS-2CD1121-I",
-      "description": "Camera IP 2.0MP với ống kính cố định, hỗ trợ hồng ngoại lên đến 30m, phù hợp cho giám sát trong nhà và ngoài trời."
-    },
-    {
-      "id": 2,
-      "title": "Camera Hikvision DS-2CD2143G0-I",
-      "price": "1.290.000₫",
-      "rating": "★★★★★",
-      "image": "https://example.com/images/hikvision-ds-2cd2143g0-i.jpg",
-      "alt": "Camera Hikvision DS-2CD2143G0-I",
-      "description": "Camera IP 4.0MP với ống kính cố định, hỗ trợ hồng ngoại lên đến 30m, thiết kế bán cầu, phù hợp cho giám sát khu vực rộng."
-    },
-    {
-      "id": 3,
-      "title": "Camera Hikvision DS-2CE56D0T-IRP",
-      "price": "850.000₫",
-      "rating": "★★★★☆",
-      "image": "https://example.com/images/hikvision-ds-2ce56d0t-irp.jpg",
-      "alt": "Camera Hikvision DS-2CE56D0T-IRP",
-      "description": "Camera HDTVI 2.0MP với ống kính cố định, hỗ trợ hồng ngoại, phù hợp cho giám sát trong nhà và ngoài trời."
-    },
-    {
-      "id": 4,
-      "title": "Camera Hikvision DS-2DF8236IX-AEL",
-      "price": "15.000.000₫",
-      "rating": "★★★★★",
-      "image": "https://example.com/images/hikvision-ds-2df8236ix-ael.jpg",
-      "alt": "Camera Hikvision DS-2DF8236IX-AEL",
-      "description": "Camera PTZ 2.0MP với khả năng xoay 360 độ và zoom quang học 36x, hỗ trợ hồng ngoại lên đến 200m, phù hợp cho giám sát khu vực rộng lớn."
-    },
-    {
-      "id": 5,
-      "title": "Camera Hikvision DS-2CD2T23G0-I8",
-      "price": "3.500.000₫",
-      "rating": "★★★★☆",
-      "image": "https://example.com/images/hikvision-ds-2cd2t23g0-i8.jpg",
-      "alt": "Camera Hikvision DS-2CD2T23G0-I8",
-      "description": "Camera IP 2.0MP với công nghệ AcuSense, hỗ trợ hồng ngoại lên đến 80m, phù hợp cho giám sát khu vực rộng."
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Camera Hikvision DS-2CD2021G1-IDW1",
+    "price": "1.450.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.IY7-L0jl8C3I1piu6ss_lQHaIM&pid=Api",
+    "alt": "Camera Hikvision DS-2CD2021G1-IDW1",
+    "description": "Camera Wifi Ngoài Trời 2.0MP, chuẩn IP67, hỗ trợ thẻ nhớ 128GB."
+  },
+  {
+    "id": 2,
+    "title": "Camera Hikvision DS-2CD1143G0-IUF",
+    "price": "1.750.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.bLeHYyEvu-WYJO2chaRWzAHaHa&pid=Api",
+    "alt": "Camera Hikvision DS-2CD1143G0-IUF",
+    "description": "Camera IP bán cầu 4MP, hồng ngoại 30m, phù hợp lắp đặt trong nhà."
+  },
+  {
+    "id": 3,
+    "title": "Camera Hikvision DS-2CE5AH0T-ITPF",
+    "price": "1.200.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.BfLO4PI0oudtg6G4cTq93wHaHa&pid=Api",
+    "alt": "Camera Hikvision DS-2CE5AH0T-ITPF",
+    "description": "Camera Dome 5MP, hồng ngoại, phù hợp lắp đặt trong nhà."
+  },
+  {
+    "id": 4,
+    "title": "Camera Hikvision DS-2CD2045FWD-I",
+    "price": "2.500.000₫",
+    "rating": "★★★★★",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.rXz4k317SJOSn1hl_kGDtwHaHa&pid=Api",
+    "alt": "Camera Hikvision DS-2CD2045FWD-I",
+    "description": "Camera IP Bullet 4MP, hồng ngoại 30m, chuẩn IP67, phù hợp lắp đặt ngoài trời."
+  },
+  {
+    "id": 5,
+    "title": "Camera Hikvision DS-2DE2A404IW-DE3",
+    "price": "4.500.000₫",
+    "rating": "★★★★★",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.09V-C6w-wnbRW_9S3kE8YgHaGg&pid=Api",
+    "alt": "Camera Hikvision DS-2DE2A404IW-DE3",
+    "description": "Camera IP PTZ 4MP, zoom quang 4x, hồng ngoại 20m, phù hợp lắp đặt trong nhà."
+  },
+  {
+    "id": 6,
+    "title": "Camera Hikvision DS-2CD2347G2-LSU/SL",
+    "price": "3.200.000₫",
+    "rating": "★★★★★",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.ttKae8gugThV7x4t25CD9AHaHa&pid=Api",
+    "alt": "Camera Hikvision DS-2CD2347G2-LSU/SL",
+    "description": "Camera IP ColorVu 4MP, ghi hình màu 24/7, tích hợp micro và loa, phù hợp lắp đặt trong nhà."
+  },
+  {
+    "id": 7,
+    "title": "Camera Hikvision DS-2CD2T23G0-I8",
+    "price": "2.800.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.DxbXYj3ovzKQL95vco6w7gHaHa&pid=Api",
+    "alt": "Camera Hikvision DS-2CD2T23G0-I8",
+    "description": "Camera IP Bullet 2MP, hồng ngoại 80m, chuẩn IP67, phù hợp lắp đặt ngoài trời."
+  },
+  {
+    "id": 8,
+    "title": "Camera Hikvision DS-2CE16D8T-IT5",
+    "price": "1.600.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.skt4p5q53ejVIYhR8tZtSAHaHa&pid=Api",
+    "alt": "Camera Hikvision DS-2CE16D8T-IT5",
+    "description": "Camera HD-TVI Bullet 2MP, hồng ngoại 50m, phù hợp lắp đặt ngoài trời."
+  },
+  {
+    "id": 9,
+    "title": "Camera Hikvision DS-2CD41C5F-IZ",
+    "price": "12.000.000₫",
+    "rating": "★★★★★",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.OE3TeKl_3DE2HSNx6SBeDgHaHM&pid=Api",
+    "alt": "Camera Hikvision DS-2CD41C5F-IZ",
+    "description": "Camera IP Dome 12MP, ống kính varifocal, hồng ngoại 30m, phù hợp lắp đặt trong nhà."
+  },
+  {
+    "id": 10,
+    "title": "Camera Hikvision DS-2DF8250I5X-AELW",
+    "price": "25.000.000₫",
+    "rating": "★★★★★",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.KribZcxx_4SpLwsI4lnBpwHaGL&pid=Api",
+    "alt": "Camera Hikvision DS-2DF8250I5X-AELW",
+    "description": "Camera IP PTZ 2MP, zoom quang 50x, hồng ngoại 500m, phù hợp lắp đặt ngoài trời."
+  },
+  {
+    "id": 11,
+    "title": "Camera Hikvision DS-2CD2185FWD-I",
+    "price": "4.200.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.-QogVPFfWcfavxZVAUD0KgHaHa&pid=Api",
+    "alt": "Camera Hikvision DS-2CD2185FWD-I",
+    "description": "Camera IP Dome 8MP, hồng ngoại 30m, chuẩn IP67, phù hợp lắp đặt trong nhà."
+  },
+  {
+    "id": 12,
+    "title": "Camera Hikvision DS-2CD2685FWD-IZS",
+    "price": "5.500.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.Gd0w0v57Pvq0v3d4SuCQLwHaFS&pid=Api",
+    "alt": "Camera Hikvision DS-2CD2685FWD-IZS",
+    "description": "Camera IP Bullet 8MP, ống kính varifocal, hồng ngoại 50m, chuẩn IP67, phù hợp lắp đặt ngoài trời."
+  },
+  {
+    "id": 13,
+    "title": "Camera Hikvision DS-2CD2T85FWD-I5",
+    "price": "4.800.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.aZQ0FdQYzvCiOzvMjCnNtAHaHa&pid=Api",
+    "alt": "Camera Hikvision DS-2CD2T85FWD-I5",
+    "description": "Camera IP Bullet 8MP, hồng ngoại 50m, chuẩn IP67, phù hợp lắp đặt ngoài trời."
+  },
+  {
+    "id": 14,
+    "title": "Camera Hikvision DS-2CD2155FWD-I",
+    "price": "3.500.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.In67oPWbyRbCwRGV5Y047AHaGL&pid=Api",
+    "alt": "Camera Hikvision DS-2CD2155FWD-I",
+    "description": "Camera IP Dome 5MP, hồng ngoại 30m, chuẩn IP67, phù hợp lắp đặt trong nhà."
+  },
+  {
+    "id": 15,
+    "title": "Camera Hikvision DS-2CD2655FWD-IZS",
+    "price": "4.700.000₫",
+    "rating": "★★★★☆",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.tF4p0-t32j1RqtAr1zbUwwHaEK&pid=Api",
+    "alt": "Camera Hikvision DS-2CD2655FWD-IZS",
+    "description": "Camera IP Bullet 5MP, ống kính varifocal, hồng ngoại 50m, chuẩn IP67, phù hợp lắp đặt ngoài trời."
+  }
+]

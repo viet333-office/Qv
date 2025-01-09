@@ -1,93 +1,137 @@
 [
     {
       "id": 1,
-      "title": "Camera Imou Bullet 2C",
-      "price": "690.000₫",
+      "title": "Camera IP 360 Độ 3MP IMOU TA32CP-L",
+      "price": "470.000₫",
       "rating": "★★★★☆",
-      "image": "https://example.com/images/imou-bullet-2c.jpg",
-      "alt": "Camera Imou Bullet 2C",
-      "description": "Camera thân trụ ngoài trời với độ phân giải 2MP, hỗ trợ phát hiện người và lọc báo động giả."
+      "image": "https://tse4.mm.bing.net/th?id=OIP.LUpjxCi9kJDhAr7Qvz5CagHaKe&pid=Api",
+      "alt": "Camera IP 360 Độ 3MP IMOU TA32CP-L",
+      "description": "Camera IP xoay 360 độ với độ phân giải 3MP, thích hợp cho giám sát trong nhà."
     },
     {
       "id": 2,
-      "title": "Camera Imou Bullet 2E",
-      "price": "790.000₫",
-      "rating": "★★★★★",
-      "image": "https://example.com/images/imou-bullet-2e.jpg",
-      "alt": "Camera Imou Bullet 2E",
-      "description": "Camera ngoài trời với khả năng chống nước và bụi đạt chuẩn IP67, hỗ trợ nhận diện khuôn mặt thông minh."
+      "title": "Camera IP 360 Độ 3MP IMOU RANGER RC GK2CP-3C0WR",
+      "price": "520.000₫",
+      "rating": "★★★★☆",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.zbEjV88_hh3MQV7Hf9XaNQHaEI&pid=Api",
+      "alt": "Camera IP 360 Độ 3MP IMOU RANGER RC GK2CP-3C0WR",
+      "description": "Camera giám sát xoay đa chiều, độ phân giải 3MP, thiết kế nhỏ gọn phù hợp cho không gian gia đình."
     },
     {
       "id": 3,
-      "title": "Camera Imou Ranger 2C",
-      "price": "880.000₫",
+      "title": "Camera IP Ngoài trời 360 Độ 3MP IMOU Cruiser 2C S7CP-3M0WE",
+      "price": "990.000₫",
       "rating": "★★★★☆",
-      "image": "https://example.com/images/imou-ranger-2c.jpg",
-      "alt": "Camera Imou Ranger 2C",
-      "description": "Camera PTZ với khả năng xoay 360 độ, zoom quang học 4x, phù hợp cho giám sát toàn cảnh."
+      "image": "https://tse4.mm.bing.net/th?id=OIP.3iQ5NBAzOdnDIehJSnFEBwHaHa&pid=Api",
+      "alt": "Camera IP Ngoài trời 360 Độ 3MP IMOU Cruiser 2C S7CP-3M0WE",
+      "description": "Camera ngoài trời với độ phân giải 3MP, hỗ trợ quay 360 độ và giám sát ban đêm."
     },
     {
       "id": 4,
-      "title": "Camera Imou A22EP",
-      "price": "1.290.000₫",
-      "rating": "★★★★★",
-      "image": "https://example.com/images/imou-a22ep.jpg",
-      "alt": "Camera Imou A22EP",
-      "description": "Camera robot với khả năng xoay 360 độ, hỗ trợ đàm thoại hai chiều, lý tưởng cho giám sát gia đình."
+      "title": "Camera IP 360 Độ 4MP IMOU RANGER RC GK2CP-4C0WR",
+      "price": "650.000₫",
+      "rating": "★★★★☆",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.sJzZS8S4G__u8hCKIWpW3AHaGU&pid=Api",
+      "alt": "Camera IP 360 Độ 4MP IMOU RANGER RC GK2CP-4C0WR",
+      "description": "Camera IP trong nhà, hỗ trợ quay 360 độ, độ phân giải 4MP cho hình ảnh rõ nét."
     },
     {
       "id": 5,
-      "title": "Camera Imou G42P",
-      "price": "950.000₫",
+      "title": "Camera IP 360 Độ 3MP IMOU Ranger Dual S2XP-6M0WED",
+      "price": "1.020.000₫",
       "rating": "★★★★☆",
-      "image": "https://example.com/images/imou-g42p.jpg",
-      "alt": "Camera Imou G42P",
-      "description": "Camera ngoài trời với độ phân giải 4MP, hỗ trợ phát hiện người và lọc báo động giả, phù hợp cho an ninh gia đình."
+      "image": "https://tse4.mm.bing.net/th?id=OIP.-ixQUbJnCID8OC9qwp06sgHaHa&pid=Api",
+      "alt": "Camera IP 360 Độ 3MP IMOU Ranger Dual S2XP-6M0WED",
+      "description": "Camera IP trong nhà độ phân giải 3MP với công nghệ giám sát AI tiên tiến."
     },
     {
-        "id": 1,
-        "title": "Camera Imou Bullet 2C",
+        "id": 6,
+        "title": "Camera IP 360 Độ 5MP IMOU Rex VT Pro S2VBP-5M0WR",
+        "price": "1.450.000₫",
+        "rating": "★★★★★",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.CqzyVFHxl_QeyG3cJ1TdogHaE8&pid=Api",
+        "alt": "Camera IP 360 Độ 5MP IMOU Rex VT Pro S2VBP-5M0WR",
+        "description": "Camera IP xoay 360 độ, độ phân giải 5MP, phù hợp cho giám sát trong nhà với độ chi tiết cao."
+      },
+      {
+        "id": 7,
+        "title": "Camera IP Ngoài trời 360 Độ 5MP IMOU Cruiser 2 GS7EP-5M0WE",
+        "price": "1.480.000₫",
+        "rating": "★★★★★",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.79wFNcFc87XECtHKtcaH-AHaFC&pid=Api",
+        "alt": "Camera IP Ngoài trời 360 Độ 5MP IMOU Cruiser 2 GS7EP-5M0WE",
+        "description": "Camera ngoài trời với khả năng xoay 360 độ, độ phân giải 5MP, hỗ trợ quan sát ban đêm màu sắc."
+      },
+      {
+        "id": 8,
+        "title": "Camera IP Ngoài trời 360 Độ 5MP IMOU Cruiser Dual S7XP-10M0WED",
+        "price": "1.700.000₫",
+        "rating": "★★★★★",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.lPjcf62WhtKAyxLMvrdq-gHaHa&pid=Api",
+        "alt": "Camera IP Ngoài trời 360 Độ 5MP IMOU Cruiser Dual S7XP-10M0WED",
+        "description": "Camera ngoài trời với hai ống kính, độ phân giải 5MP, cung cấp góc nhìn toàn diện và chi tiết."
+      },
+      {
+        "id": 9,
+        "title": "Camera IP 360 Độ 5MP IMOU RANGER RC GK2CP-5C0WR",
+        "price": "850.000₫",
+        "rating": "★★★★☆",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.6iw7cMpXCQcYEd7qI-ilNQHaHa&pid=Api",
+        "alt": "Camera IP 360 Độ 5MP IMOU RANGER RC GK2CP-5C0WR",
+        "description": "Camera xoay đa chiều, độ phân giải 5MP, thiết kế tối ưu cho không gian gia đình."
+      },
+      {
+        "id": 10,
+        "title": "Camera IP Ngoài Trời 2MP IMOU Bullet 2C F22P",
         "price": "690.000₫",
         "rating": "★★★★☆",
-        "image": "https://example.com/images/imou-bullet-2c.jpg",
-        "alt": "Camera Imou Bullet 2C",
-        "description": "Camera thân trụ ngoài trời với độ phân giải 2MP, hỗ trợ phát hiện người và lọc báo động giả."
+        "image": "https://tse1.mm.bing.net/th?id=OIP.P8CySgwZ5jXTbJ3tZUyguAHaHa&pid=Api",
+        "alt": "Camera IP Ngoài Trời 2MP IMOU Bullet 2C F22P",
+        "description": "Camera ngoài trời độ phân giải 2MP, nhỏ gọn và dễ dàng lắp đặt."
       },
       {
-        "id": 2,
-        "title": "Camera Imou Bullet 2E",
-        "price": "790.000₫",
+        "id": 11,
+        "title": "Camera IP Ngoài trời 360 Độ 5MP IMOU Cruiser 2C S7CP-5M0WE",
+        "price": "1.190.000₫",
         "rating": "★★★★★",
-        "image": "https://example.com/images/imou-bullet-2e.jpg",
-        "alt": "Camera Imou Bullet 2E",
-        "description": "Camera ngoài trời với khả năng chống nước và bụi đạt chuẩn IP67, hỗ trợ nhận diện khuôn mặt thông minh."
+        "image": "https://tse1.mm.bing.net/th?id=OIP.P8CySgwZ5jXTbJ3tZUyguAHaHa&pid=Api",
+        "alt": "Camera IP Ngoài trời 360 Độ 5MP IMOU Cruiser 2C S7CP-5M0WE",
+        "description": "Camera ngoài trời độ phân giải 5MP, hỗ trợ giám sát ban đêm với hình ảnh rõ nét."
       },
       {
-        "id": 3,
-        "title": "Camera Imou Ranger 2C",
-        "price": "880.000₫",
+        "id": 12,
+        "title": "Camera IP 360 Độ 5MP IMOU Rex 2D GK2DP",
+        "price": "970.000₫",
         "rating": "★★★★☆",
-        "image": "https://example.com/images/imou-ranger-2c.jpg",
-        "alt": "Camera Imou Ranger 2C",
-        "description": "Camera PTZ với khả năng xoay 360 độ, zoom quang học 4x, phù hợp cho giám sát toàn cảnh."
+        "image": "https://tse3.mm.bing.net/th?id=OIP.MC2XDve73qRCd0zMF5EEtQHaHa&pid=Api",
+        "alt": "Camera IP 360 Độ 5MP IMOU Rex 2D GK2DP",
+        "description": "Camera IP trong nhà với góc xoay linh hoạt, độ phân giải 5MP cho hình ảnh rõ nét."
       },
       {
-        "id": 4,
-        "title": "Camera Imou A22EP",
-        "price": "1.290.000₫",
+        "id": 13,
+        "title": "Camera IP Ngoài Trời 360 Độ 5MP IMOU Cruiser Z IPC-S7DP-5M0WEZ",
+        "price": "1.650.000₫",
         "rating": "★★★★★",
-        "image": "https://example.com/images/imou-a22ep.jpg",
-        "alt": "Camera Imou A22EP",
-        "description": "Camera robot với khả năng xoay 360 độ, hỗ trợ đàm thoại hai chiều, lý tưởng cho giám sát gia đình."
+        "image": "https://tse2.mm.bing.net/th?id=OIP.Ycdm6k48mQuIriiOQIQppwHaHa&pid=Api",
+        "alt": "Camera IP Ngoài Trời 360 Độ 5MP IMOU Cruiser Z IPC-S7DP-5M0WEZ",
+        "description": "Camera ngoài trời với khả năng xoay, zoom xa, độ phân giải 5MP, hỗ trợ AI thông minh."
       },
       {
-        "id": 5,
-        "title": "Camera Imou G42P",
-        "price": "950.000₫",
+        "id": 14,
+        "title": "Camera IP Ngoài Trời 3MP IMOU Cell 3C Năng Lượng Mặt Trời IPC-K9DCP-3T0WE-V2",
+        "price": "1.500.000₫",
         "rating": "★★★★☆",
-        "image": "https://example.com/images/imou-g42p.jpg",
-        "alt": "Camera Imou G42P",
-        "description": "Camera ngoài trời với độ phân giải 4MP, hỗ trợ phát hiện người và lọc báo động giả, phù hợp cho an ninh gia đình."
+        "image": "https://tse3.mm.bing.net/th?id=OIP.6yOC-IqKB7sd6Xy9qgf3GQHaHa&pid=Api",
+        "alt": "Camera IP Ngoài Trời 3MP IMOU Cell 3C Năng Lượng Mặt Trời IPC-K9DCP-3T0WE-V2",
+        "description": "Camera năng lượng mặt trời, độ phân giải 3MP, thích hợp cho khu vực không có nguồn điện cố định."
+      },
+      {
+        "id": 15,
+        "title": "Camera IP Ngoài Trời 360 Độ 2MP IMOU Cruiser 4G IPC-S21FTP",
+        "price": "1.350.000₫",
+        "rating": "★★★★☆",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.dmAXQHGqt8n2rj4SghmaaQHaHa&pid=Api",
+        "alt": "Camera IP Ngoài Trời 360 Độ 2MP IMOU Cruiser 4G IPC-S21FTP",
+        "description": "Camera ngoài trời 2MP với khả năng kết nối 4G, phù hợp cho các khu vực xa trung tâm."
       }
   ]
-  

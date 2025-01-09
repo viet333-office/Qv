@@ -1,47 +1,138 @@
 [
     {
         "id": 1,
-        "title": "Laptop Dell Inspiron 15 3000",
-        "price": "7.500.000₫",
-        "rating": "★★★★☆",
-        "image": "https://example.com/images/dell-inspiron-15-3000.jpg",
-        "alt": "Laptop Dell Inspiron 15 3000",
-        "description": "Laptop Dell Inspiron 15 3000 với bộ vi xử lý Intel Core i3, RAM 4GB, ổ cứng HDD 1TB, phù hợp cho các công việc văn phòng cơ bản."
+        "title": "Dell Inspiron 15 3520",
+        "price": "15.000.000₫",
+        "rating": "★★★★★",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.ohfdjbVpMu0vd-M0HXudGgHaFa&pid=Api",
+        "alt": "Dell Inspiron 15 3520",
+        "description": "Laptop với màn hình 15.6 inch Full HD, bộ vi xử lý Intel Core i5-1235U, RAM 8GB và ổ cứng SSD 512GB."
     },
     {
         "id": 2,
-        "title": "Laptop Dell Vostro 15 5000",
-        "price": "9.000.000₫",
+        "title": "Dell Vostro 15 3510",
+        "price": "15.790.000₫",
         "rating": "★★★★☆",
-        "image": "https://example.com/images/dell-vostro-15-5000.jpg",
-        "alt": "Laptop Dell Vostro 15 5000",
-        "description": "Laptop Dell Vostro 15 5000 với bộ vi xử lý Intel Core i5, RAM 8GB, ổ cứng SSD 256GB, phù hợp cho công việc văn phòng và học tập."
+        "image": "https://tse2.mm.bing.net/th?id=OIP.i0etDfVSFafVSFatnHK7-QHaFj&pid=Api",
+        "alt": "Dell Vostro 15 3510",
+        "description": "Laptop với bộ vi xử lý Intel Core i5-1135G7, RAM 8GB và ổ cứng SSD 256GB."
     },
     {
         "id": 3,
-        "title": "Laptop Dell Latitude 3510",
-        "price": "10.500.000₫",
-        "rating": "★★★★☆",
-        "image": "https://example.com/images/dell-latitude-3510.jpg",
-        "alt": "Laptop Dell Latitude 3510",
-        "description": "Laptop Dell Latitude 3510 với bộ vi xử lý Intel Core i5, RAM 8GB, ổ cứng SSD 512GB, màn hình FHD, thiết kế mỏng nhẹ, phục vụ cho công việc chuyên nghiệp."
+        "title": "Dell Inspiron 15 3520 N5I5122W1",
+        "price": "16.090.000₫",
+        "rating": "★★★★★",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.Cq1U8NUhjYlbE5EQ6l8YBQHaEK&pid=Api",
+        "alt": "Dell Inspiron 15 3520 N5I5122W1",
+        "description": "Laptop với bộ vi xử lý Intel Core i5-1235U, RAM 8GB và ổ cứng SSD 256GB."
     },
     {
         "id": 4,
-        "title": "Laptop Dell XPS 13",
-        "price": "16.500.000₫",
+        "title": "Dell Inspiron 15 3520 i5U085W11BLU",
+        "price": "16.590.000₫",
         "rating": "★★★★★",
-        "image": "https://example.com/images/dell-xps-13.jpg",
-        "alt": "Laptop Dell XPS 13",
-        "description": "Laptop Dell XPS 13 với bộ vi xử lý Intel Core i7, RAM 16GB, ổ cứng SSD 512GB, thiết kế sang trọng, màn hình 13.3 inch InfinityEdge, phù hợp cho công việc sáng tạo và giải trí."
+        "image": "https://tse2.mm.bing.net/th?id=OIP.cjA9bubWCMjwsKbgrmEqlgHaE8&pid=Api",
+        "alt": "Dell Inspiron 15 3520 i5U085W11BLU",
+        "description": "Laptop với bộ vi xử lý Intel Core i5-1235U, RAM 8GB và ổ cứng SSD 512GB."
     },
     {
         "id": 5,
-        "title": "Laptop Dell Alienware m15",
-        "price": "30.000.000₫",
+        "title": "Dell Vostro 14 3400",
+        "price": "16.590.000₫",
+        "rating": "★★★★☆",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.kr-gScQVsLGCOZoSx4W4-QHaF2&pid=Api",
+        "alt": "Dell Vostro 14 3400",
+        "description": "Laptop với bộ vi xử lý Intel Core i5-1135G7, RAM 8GB và ổ cứng SSD 256GB."
+    },
+    {
+        "id": 6,
+        "title": "Dell Inspiron 3511",
+        "price": "16.890.000₫",
+        "rating": "★★★★☆",
+        "image": "https://tse3.mm.bing.net/th?id=OIP.nSxWjJHnotg9BwLk2Cim9wHaEX&pid=Api",
+        "alt": "Dell Inspiron 3511",
+        "description": "Laptop với bộ vi xử lý Intel Core i5-1135G7, RAM 8GB và ổ cứng SSD 512GB."
+    },
+    {
+        "id": 7,
+        "title": "Dell Latitude 3520",
+        "price": "16.990.000₫",
+        "rating": "★★★★☆",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.OTHRj26ydHpX3GuL-2UW5wHaFN&pid=Api",
+        "alt": "Dell Latitude 3520",
+        "description": "Laptop với bộ vi xử lý Intel Core i5-1135G7, RAM 8GB và ổ cứng SSD 256GB."
+    },
+    {
+        "id": 8,
+        "title": "Dell Inspiron 14 5410",
+        "price": "20.000.000₫",
         "rating": "★★★★★",
-        "image": "https://example.com/images/dell-alienware-m15.jpg",
-        "alt": "Laptop Dell Alienware m15",
-        "description": "Laptop Dell Alienware m15 với bộ vi xử lý Intel Core i7, RAM 16GB, ổ cứng SSD 1TB, card đồ họa NVIDIA GeForce RTX 2060, phù hợp cho game thủ và công việc đồ họa nặng."
+        "image": "https://tse2.mm.bing.net/th?id=OIP.mHSVw6QvsnoQpvhjHKlJIQHaEK&pid=Api",
+        "alt": "Dell Inspiron 14 5410",
+        "description": "Laptop với bộ vi xử lý Intel Core i5 hoặc i7, RAM 8GB và ổ cứng SSD 512GB."
+    },
+    {
+        "id": 9,
+        "title": "Dell Inspiron 15 N3542",
+        "price": "Dưới 5 triệu đồng",
+        "rating": "★★★☆☆",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.60AF09BOp8Ba64zqHwkt4gHaEM&pid=Api",
+        "alt": "Dell Inspiron 15 N3542",
+        "description": "Laptop với bộ vi xử lý Intel Core i3, RAM 4GB và ổ cứng 500GB."
+    },
+    {
+        "id": 10,
+        "title": "Dell Inspiron 3148",
+        "price": "Dưới 5 triệu đồng",
+        "rating": "★★★☆☆",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.vib9djZmG2mo5x9otCU7tQHaEn&pid=Api",
+        "alt": "Dell Inspiron 3148",
+        "description": "Laptop 2 trong 1 với màn hình 11.6 inch cảm ứng, bộ vi xử lý Intel Core i3, RAM 4GB."
+    },
+    {
+        "id": 11,
+        "title": "Dell Latitude E5430",
+        "price": "Từ 5 triệu đồng",
+        "rating": "★★★☆☆",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.lZyhXmNhtb3j2Laz6iYsjAAAAA&pid=Api",
+        "alt": "Dell Latitude E5430",
+        "description": "Laptop với màn hình 14 inch, bộ vi xử lý Intel Core i5, RAM 4GB và ổ cứng SSD 120GB."
+    },
+    {
+        "id": 12,
+        "title": "Dell Latitude E6430",
+        "price": "Dưới 5 triệu đồng",
+        "rating": "★★★☆☆",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.T9ErZCHvkni7UicajyTrGAHaFY&pid=Api",
+        "alt": "Dell Latitude E6430",
+        "description": "Laptop với màn hình 14 inch, bộ vi xử lý Intel Core i5, RAM 4GB và ổ cứng HDD 250GB."
+    },
+    {
+        "id": 13,
+        "title": "Dell Inspiron 15 3542",
+        "price": "Dưới 5 triệu đồng",
+        "rating": "★★★☆☆",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.60AF09BOp8Ba64zqHwkt4gHaEM&pid=Api",
+        "alt": "Dell Inspiron 15 3542",
+        "description": "Laptop với màn hình 15.6 inch, bộ vi xử lý Intel Core i3, RAM 4GB và ổ cứng 500GB."
+    },
+    {
+        "id": 14,
+        "title": "Dell Inspiron 3148",
+        "price": "Dưới 5 triệu đồng",
+        "rating": "★★★☆☆",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.vib9djZmG2mo5x9otCU7tQHaEn&pid=Api",
+        "alt": "Dell Inspiron 3148",
+        "description": "Laptop 2 trong 1 với màn hình 11.6 inch cảm ứng, bộ vi xử lý Intel Core i3, RAM 4GB."
+    },
+    {
+        "id": 15,
+        "title": "Dell Vostro 3450",
+        "price": "4.990.000₫",
+        "rating": "★★☆☆☆",
+        "image": "https://tse3.mm.bing.net/th?id=OIP.sXdT6T4Ds5alB0J57_4HZgHaHa&pid=Api",
+        "alt": "Dell Vostro 3450",
+        "description": "Laptop với thiết kế vỏ nhôm, màn hình 14 inch, bộ vi xử lý Intel Core i5, RAM DDR3."
     }
+    
 ]
